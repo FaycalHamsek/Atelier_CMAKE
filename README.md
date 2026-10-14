@@ -3,7 +3,9 @@ PROJET AUTOMATISATION DES TESTS2
 ------------------------------------------------------------------------------------------------------
 Quelles sont les notions qui vont être abordées au cours de cet atelier ?
 Cet atelier a pour objectif de vous apprendre à créer des actions Github pour automatiser vos tests. Vous allez, sur la base de cette calculatrice écrite en code C, compiler puis executer automatiquement une serie de tests pour vérifier le bon fonctionne de votre application. 
-  
+
+
+
 -------------------------------------------------------------------------------------------------------
 Séquence 1 : GitHUB
 -------------------------------------------------------------------------------------------------------
